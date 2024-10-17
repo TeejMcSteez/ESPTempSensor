@@ -17,8 +17,8 @@ Servo servo;
 int ledPin = 12;
 int ledPin2 = 26;
 
-const char *ssid = "World Wide Web";
-const char *password = "ablecapital114";
+const char *ssid = "Your SSID";
+const char *password = "Your Password";
 
 WebServer server(80);
 
